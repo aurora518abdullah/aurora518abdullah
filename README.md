@@ -62,12 +62,13 @@ programming problems, and improving my skills every day. 🚀
 
 # 🔥 GitHub Streak
 
+## 📊 GitHub Overview
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aurora518abdullah&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aurora518abdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </p>
-
 ---
 
 # 🧠 Most Used Languages
