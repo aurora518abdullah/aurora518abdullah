@@ -60,16 +60,51 @@ programming problems, and improving my skills every day. 🚀
 
 ---
 
-# 🔥 GitHub Streak
 
-## 📊 GitHub Overview
+# 📊 GitHub Overview
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aurora518abdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora518abdullah&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
 </p>
+
 ---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurora518abdullah&theme=github_dark"
+    alt="GitHub Statistics"
+  />
+</p>
+
+---
+
+# 🧠 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurora518abdullah&theme=github_dark"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+# 🔥 Languages in Commits
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurora518abdullah&theme=github_dark"
+    alt="Most Used Languages in Commits"
+  />
+</p>
+
+---
+
 
 # 🧠 Most Used Languages
 
