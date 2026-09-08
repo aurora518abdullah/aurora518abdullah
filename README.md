@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abdullah All Mahmud
+# Hi, I'm Abdullah All Mahmud
 
-### 💻 CSE Student | Programmer | Tech Enthusiast
+### 💻 CSE Student | Competitive Programmer | Tech Enthusiast
 
 I'm a Computer Science & Engineering student passionate about
 programming, problem solving, software development, and technology.
@@ -83,48 +83,6 @@ programming problems, and improving my skills every day. 🚀
 
 ---
 
-# 🧠 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurora518abdullah&theme=github_dark"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
-# 🔥 Languages in Commits
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurora518abdullah&theme=github_dark"
-    alt="Most Used Languages in Commits"
-  />
-</p>
-
----
-
-
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurora518abdullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aurora518abdullah&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
 
 # 🏆 Competitive Programming
 
