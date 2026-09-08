@@ -19,14 +19,14 @@ programming problems, and improving my skills every day. 🚀
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 🧠 Programming Languages
+### 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌐 Development & Cloud
 
@@ -53,10 +53,9 @@ programming problems, and improving my skills every day. 🚀
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aurora518abdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Abdullah's GitHub Stats"
-  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=aurora518abdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
 </p>
 
 ---
@@ -64,10 +63,9 @@ programming problems, and improving my skills every day. 🚀
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=aurora518abdullah&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+
+<img src="https://streak-stats.demolab.com?user=aurora518abdullah&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -75,21 +73,18 @@ programming problems, and improving my skills every day. 🚀
 # 🧠 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurora518abdullah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
-    alt="Most Used Languages"
-  />
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurora518abdullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</p>
 ---
 
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aurora518abdullah&theme=tokyo-night&hide_border=true&area=true&custom_title=Abdullah's%20Contribution%20Activity"
-    alt="Contribution Activity Graph"
-  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aurora518abdullah&theme=tokyo-night&hide_border=true" />
+
 </p>
 
 ---
@@ -109,9 +104,6 @@ my Data Structures & Algorithms and problem-solving skills.
 
 - 📚 Master Data Structures & Algorithms
 - 🧠 Improve Competitive Programming
-- 🐍 Improve Python
-- ⚡ Improve C & C++
-- ☕ Strengthen Java
 - 💻 Build useful software projects
 - 🌐 Learn modern Web Development
 - ☁️ Explore Cloud & Backend Development
@@ -120,17 +112,12 @@ my Data Structures & Algorithms and problem-solving skills.
 
 ---
 
-# 📂 GitHub Repositories
+# 📂 GitHub
 
 <p align="center">
 
-<a href="https://github.com/aurora518abdullah?tab=repositories">
-
-<img
-  src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Explore Repositories"
-/>
-
+<a href="https://github.com/aurora518abdullah">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -141,10 +128,7 @@ my Data Structures & Algorithms and problem-solving skills.
 
 <p align="center">
 
-<img
-  src="https://komarev.com/ghpvc/?username=aurora518abdullah&style=for-the-badge&color=blueviolet"
-  alt="Profile Visitors"
-/>
+<img src="https://komarev.com/ghpvc/?username=aurora518abdullah&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
