@@ -19,14 +19,14 @@ programming problems, and improving my skills every day. 🚀
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌐 Development & Cloud
 
@@ -84,7 +84,7 @@ programming problems, and improving my skills every day. 🚀
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aurora518abdullah&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aurora518abdullah&theme=tokyo-night&hide_border=true&area=true" />
 
 </p>
 
@@ -106,6 +106,9 @@ my Data Structures & Algorithms and problem-solving skills.
 - 📚 Master Data Structures & Algorithms
 - 🧠 Improve Competitive Programming
 - 💻 Build useful software projects
+- 🐍 Improve Python
+- ⚡ Improve C & C++
+- ☕ Strengthen Java
 - 🌐 Learn modern Web Development
 - ☁️ Explore Cloud & Backend Development
 - 🚀 Contribute to Open Source
@@ -113,12 +116,14 @@ my Data Structures & Algorithms and problem-solving skills.
 
 ---
 
-# 📂 GitHub
+# 📂 GitHub Repositories
 
 <p align="center">
 
-<a href="https://github.com/aurora518abdullah">
-<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/aurora518abdullah?tab=repositories">
+
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </p>
@@ -129,7 +134,7 @@ my Data Structures & Algorithms and problem-solving skills.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aurora518abdullah&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=aurora518abdullah&style=for-the-badge&color=blueviolet" />
 
 </p>
 
