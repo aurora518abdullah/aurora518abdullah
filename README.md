@@ -50,15 +50,6 @@ programming problems, and improving my skills every day. 🚀
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aurora518abdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-</p>
-
----
 
 
 # 📊 GitHub Overview
